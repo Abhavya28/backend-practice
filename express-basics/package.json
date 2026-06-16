@@ -1,0 +1,21 @@
+{
+  "name": "express-basics",
+  "version": "1.0.0",
+  "description": "Express Basics",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server",
+    "dev": "nodemon server"
+  },
+  "author": "Abhavya",
+  "license": "ISC",
+  "dependencies": {
+    "date-fns": "^4.1.0",
+    "express": "^5.2.1",
+    "uuid": "^14.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
